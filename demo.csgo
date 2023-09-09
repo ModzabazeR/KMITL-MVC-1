@@ -1,0 +1,5 @@
+declare abc
+declare def
+// assign variable
+abc = 1
+def = abc + abc
